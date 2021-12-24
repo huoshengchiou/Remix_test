@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\new.jsx?browser", "../../../../app/routes/posts/new.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\new.jsx\";", "const news = () => {\r\n  return <div>news</div>;\r\n};\r\n\r\nexport default news;\r\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,IAAM,OAAO,MAAM;AACjB,SAAO,oCAAC,OAAD,MAAK;AAAA;AAGd,IAAO,cAAQ;",
+  "names": []
+}

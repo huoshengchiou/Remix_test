@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\$postId.jsx?browser", "../../../../app/routes/posts/$postId.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\$postId.jsx\";", "import { useParams } from \"remix\";\r\n\r\n//\u5982\u679C\u6700\u5916\u5C64\u6709\u8DDF\u8CC7\u6599\u593E\u540C\u540D\u7A31\u8DEF\u5F91\u5247\u6703\u540C\u6642\u51FA\u73FE\u5728\u756B\u9762\u4E0A\r\nconst Post = () => {\r\n  const params = useParams();\r\n  return (\r\n    <div>\r\n      <div>post {params.postId}</div>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Post;\r\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAGA,IAAM,OAAO,MAAM;AACjB,QAAM,SAAS;AACf,SACE,oCAAC,OAAD,MACE,oCAAC,OAAD,MAAK,SAAM,OAAO;AAAA;AAKxB,IAAO,iBAAQ;",
+  "names": []
+}

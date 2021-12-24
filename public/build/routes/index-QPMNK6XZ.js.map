@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\index.jsx?browser", "../../../app/routes/index.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\index.jsx\";", "const Main = () => {\n  return <div></div>;\n};\n\nexport default Main;\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,IAAM,OAAO,MAAM;AACjB,SAAO,oCAAC,OAAD;AAAA;AAGT,IAAO,iBAAQ;",
+  "names": []
+}

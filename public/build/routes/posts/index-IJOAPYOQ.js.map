@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\index.jsx?browser", "../../../../app/routes/posts/index.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\index.jsx\";", "import { Outlet } from \"remix\";\r\n\r\nconst posts = () => {\r\n  return (\r\n    <div>\r\n      <h1>Posts</h1>\r\n      {/* \u63D2\u5165\u5B50\u8DEF\u7531component */}\r\n      <Outlet></Outlet>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default posts;\r\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEA,IAAM,QAAQ,MAAM;AAClB,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,UAEJ,oCAAC,gCAAD;AAAA;AAKN,IAAO,gBAAQ;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\root.jsx?browser", "../../app/root.jsx"],
+  "sourcesContent": ["export { default, meta } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\root.jsx\";", "import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from \"remix\";\n\nexport function meta() {\n  return { title: \"New Remix App\" };\n}\n//root component\nexport default function App() {\n  return (\n    <h1>121</h1>\n    // <html lang=\"en\">\n    //   <head>\n    //     <meta charSet=\"utf-8\" />\n    //     <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n    //     <Meta />\n    //     <Links />\n    //   </head>\n    //   <body>\n    //     <Outlet />\n    //     <ScrollRestoration />\n    //     <Scripts />\n    //     {process.env.NODE_ENV === \"development\" && <LiveReload />}\n    //   </body>\n    // </html>\n  );\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAEO,gBAAgB;AACrB,SAAO,EAAE,OAAO;AAAA;AAGH,eAAe;AAC5B,SACE,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}

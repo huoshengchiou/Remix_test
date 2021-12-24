@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\$postId.jsx?browser"],
+  "sourcesContent": ["export * from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\$postId.jsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts.jsx?browser", "../../../app/routes/posts.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts.jsx\";", "import { Outlet, useLoaderData } from \"remix\";\r\n//\u5982\u679C\u6700\u5916\u5C64\u6709\u8DDF\u8CC7\u6599\u593E\u540C\u540D\u7A31\u8DEF\u5F91\u5247\u6703\u540C\u6642\u51FA\u73FE\u5728\u756B\u9762\u4E0A\r\n\r\n//server run\r\nexport const loader = () => {\r\n  const data = {\r\n    posts: [{ id: 1, title: \"post1\" }, { id: 2, title: \"post2\" }, , { id: 3, title: \"post3\" }],\r\n  };\r\n  return data;\r\n};\r\n\r\nconst posts = () => {\r\n  return (\r\n    <div>\r\n      out <Outlet></Outlet>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default posts;\r\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAWA,IAAM,QAAQ,MAAM;AAClB,SACE,oCAAC,OAAD,MAAK,QACC,oCAAC,gCAAD;AAAA;AAKV,IAAO,gBAAQ;",
+  "names": []
+}

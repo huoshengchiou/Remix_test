@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\$postId.jsx?browser", "../../../../app/routes/posts/$postId.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\$postId.jsx\";", "const Post = () => {\r\n  return (\r\n    <div>\r\n      <div>post</div>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Post;\r\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,IAAM,OAAO,MAAM;AACjB,SACE,oCAAC,OAAD,MACE,oCAAC,OAAD,MAAK;AAAA;AAKX,IAAO,iBAAQ;",
+  "names": []
+}

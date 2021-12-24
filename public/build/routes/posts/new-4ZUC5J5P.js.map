@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\2004115\\Desktop\\remix_run\\app\\routes\\posts\\new.jsx?browser", "../../../../app/routes/posts/new.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\2004115\\\\Desktop\\\\remix_run\\\\app\\\\routes\\\\posts\\\\new.jsx\";", "//\u70BAposts\u7684\u5B50\u8DEF\u7531\r\n\r\nconst NewPost = () => {\r\n  return (\r\n    <>\r\n      <div>NewPost</div>\r\n      <form action=\"POST\">\r\n        <label htmlFor=\"title\">\r\n          <input type=\"text\" name=\"title\" id=\"title\" />\r\n        </label>\r\n      </form>\r\n    </>\r\n  );\r\n};\r\n\r\nexport default NewPost;\r\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAEA,IAAM,UAAU,MAAM;AACpB,SACE,0DACE,oCAAC,OAAD,MAAK,YACL,oCAAC,QAAD;AAAA,IAAM,QAAO;AAAA,KACX,oCAAC,SAAD;AAAA,IAAO,SAAQ;AAAA,KACb,oCAAC,SAAD;AAAA,IAAO,MAAK;AAAA,IAAO,MAAK;AAAA,IAAQ,IAAG;AAAA;AAAA;AAO7C,IAAO,cAAQ;",
+  "names": []
+}
